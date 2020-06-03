@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Yen Nguyen <twitter>
 
 # THANKS
 
